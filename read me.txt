@@ -1,0 +1,3 @@
+press play.exe in  ProjectGame to play the game.
+
+This was an university project made with GLUT.
